@@ -8,6 +8,7 @@
 - [TODO](https://github.com/alicangunduz/Learning-JS-TODO)
 - [Slider](https://github.com/alicangunduz/Learning-JS-Slider)
 - [Calculator](https://github.com/alicangunduz/Learning-JS-Calculator)
+- [Hangman](https://github.com/alicangunduz/Learning-JS-Hangman)
   
 ## 🛰️ Feedback
 
